@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Test">
+<test name ="Demo">
+<parameter name="Genos" value="One Punch Man"></parameter>
+<classes>
+<class name="com.demo_TestNG.Parameter">
+</class>
+</classes>
+</test>
+</suite>
